@@ -10,9 +10,9 @@ Seaborn
 
 Para instalar esses pacotes: 
 
-~/dev$ pip install Pandas
-~/dev$ pip install Matplotlib
-~/dev$ pip install Seaborn
+```>pip install pandas```
+```>pip install matplotlib```
+```>pip install seaborn```
 
 É feito o uso do seguinte [Conjunto de Dados](https://github.com/samuel2pb/Churn/blob/main/data-test-analytics.csv)
 
