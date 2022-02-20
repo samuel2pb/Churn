@@ -4,14 +4,14 @@
 
 Essa análise foi feita utilizando Jupyter e requer Python 3 e as bibliotecas a seguir:
 
-Pandas
-Matplotlib
-Seaborn
+Pandas -- Matplotlib -- Seaborn
 
 Para instalar esses pacotes: 
 
 ```>pip install pandas```
+
 ```>pip install matplotlib```
+
 ```>pip install seaborn```
 
 É feito o uso do seguinte [Conjunto de Dados](https://github.com/samuel2pb/Churn/blob/main/data-test-analytics.csv)
